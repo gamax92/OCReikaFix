@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ocreikafix",
+  "name": "OCReikaFix",
+  "description": "Fixes broken OC Integration in Reika's mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["gamax92"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
